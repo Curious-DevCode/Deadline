@@ -1,0 +1,30 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 191: Line is indented, but the preceding show statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    yalign 0.3
+    ^
+
+File "game/script.rpy", line 197: Line is indented, but the preceding show statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    yalign 0.7
+    ^
+
+File "game/script.rpy", line 212: end of line expected.
+    show text "PASSENGERS: 1,204" style "comic_intro" with flash
+                                  ^
+
+File "game/script.rpy", line 214: end of line expected.
+    show text "SPEED: 110 KM/H" style "comic_intro" with flash
+                                ^
+
+File "game/script.rpy", line 216: end of line expected.
+    show text "{color=#ff0000}BOMB: ACTIVE{/color}" style "comic_intro" with flash
+                                                    ^
+
+File "game/script.rpy", line 221: end of line expected.
+    show text "{cps=15}MISSION: NEGOTIATE OR TERMINATE{/cps}" style "comic_intro" at truecenter
+                                                              ^
+
+Ren'Py Version: Ren'Py 8.5.2.26010301
+Mon Feb  9 14:57:38 2026
