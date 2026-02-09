@@ -206,7 +206,7 @@ init python:
 
     # PASTE YOUR API KEY HERE
 
-    API_KEY = "AIzaSyDLDssu6rv942GPyfrUlK8tpgiHsp76QwE"
+   API_KEY = "HIDDEN_FOR_SECURITY"
 
     
 
@@ -595,3 +595,4 @@ label chapter_complete:
     centered "{size=60}{color=#0f0}LEVEL 1 CLEARED{/color}{/size}"
 
     return
+
